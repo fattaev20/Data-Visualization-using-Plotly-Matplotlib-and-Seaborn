@@ -13,7 +13,7 @@ In this project we're going to analyse a dataset on the past winners of the Nobe
    - [02-2. Creating a Plotly Bar Chart](#creating-a-plotly-bar-chart)
    - [02-3. Creating a Choropleth Map with Plotly](#creating-a-choropleth-map-with-plotly)
    - [02-4. Creating a Line Graph with Plotly](#creating-a-line-graph-with-plotly)
-   - [02-4. Creating a Sunburst Chart with Plotly](#creating-a-sunburst-chart-with-plotly)
+   - [02-5. Creating a Sunburst Chart with Plotly](#creating-a-sunburst-chart-with-plotly)
  - [03. Data Visualization Using Matplotlib](#data-visualization-using-matplotlib)
  - [04. Analyzing results and Next steps](#analyzing-results-and-next-steps)
 ---
